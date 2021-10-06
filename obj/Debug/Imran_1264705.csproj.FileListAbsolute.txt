@@ -1,0 +1,7 @@
+C:\Users\imran\source\repos\Imran_1264705\bin\Debug\Imran_1264705.exe.config
+C:\Users\imran\source\repos\Imran_1264705\bin\Debug\Imran_1264705.exe
+C:\Users\imran\source\repos\Imran_1264705\bin\Debug\Imran_1264705.pdb
+C:\Users\imran\source\repos\Imran_1264705\obj\Debug\Imran_1264705.csproj.AssemblyReference.cache
+C:\Users\imran\source\repos\Imran_1264705\obj\Debug\Imran_1264705.csproj.CoreCompileInputs.cache
+C:\Users\imran\source\repos\Imran_1264705\obj\Debug\Imran_1264705.exe
+C:\Users\imran\source\repos\Imran_1264705\obj\Debug\Imran_1264705.pdb
